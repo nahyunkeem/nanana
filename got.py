@@ -1,1 +1,2 @@
-dsaewetwetawefasdfa    
+print('hi')
+print('bye')
